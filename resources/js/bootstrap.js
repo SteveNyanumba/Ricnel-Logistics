@@ -12,6 +12,7 @@ try {
 
     require('bootstrap');
     require('@fortawesome/fontawesome-free')
+    require('admin-lte')
 } catch (e) {}
 
 /**
